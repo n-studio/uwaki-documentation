@@ -1,7 +1,7 @@
 documentation (draft)
 ===================
 
-```
+```ruby
 class Scene1 < ExplorationScene
   SPOON = [:spoon, position: [330, 30], size: [60, 50]]
   
